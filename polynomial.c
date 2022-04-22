@@ -1,4 +1,4 @@
-#include "linkedlistpolynomial.h"
+#include "polynomial.h"
 #include <stdio.h>
 #include <stdlib.h>
 
